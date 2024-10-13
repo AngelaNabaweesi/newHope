@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import about_img from '../../assets/about.jpg'
+import about_img from '../../assets/about.jpeg'
 import play_icon from '../../assets/play-icon.png'
 
 const About = ({setPlayState}) => {
@@ -14,10 +14,10 @@ const About = ({setPlayState}) => {
         <div className="about-right">
             <h3>ABOUT NEWHOPE NURSERY AND PRIMARY SCHOOL</h3>
             <h2>Saving the future by serving today</h2>
-            <p>We give new hope to not only children but also to parents who cannot abily support their 
-                children to go to school.
-                We started the school in 2015 with 20 pupils and to current date the numbers are growing to over
-                200 pupils.                
+            <p>At NewHope Nursery and Primary School, 
+                we provide not only education but also hope for children and parents who may struggle to afford schooling. 
+                Established in 2015 with just 20 pupils, we have grown to serve over 200 students today. 
+                Our mission is to empower the next generation through quality education and support, ensuring a brighter future for our community.                
             </p>
             {/* <p>What keeps us going is seeing the children achieve more through high performances in school. Our school
                 got 2 first grades in Primary Leaving exams. This is an achievement because we have very few staff. 

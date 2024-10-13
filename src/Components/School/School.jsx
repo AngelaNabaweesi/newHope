@@ -1,9 +1,9 @@
 import React from 'react'
 import './School.css'
-import gallery_1 from '../../assets/program_1.jpg'
-import gallery_2 from '../../assets/program_2.jpg'
-import gallery_3 from '../../assets/program_3.jpg'
-import gallery_4 from '../../assets/program_4.jpg'
+import gallery_1 from '../../assets/recent1.jpeg'
+import gallery_2 from '../../assets/recent2.jpeg'
+import gallery_3 from '../../assets/recent3.jpeg'
+import gallery_4 from '../../assets/recent4.jpeg'
 import white_arrow from '../../assets/white_arrow.png'
 
 const School = () => {

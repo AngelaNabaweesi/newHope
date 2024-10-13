@@ -38,13 +38,14 @@ const Contact = () => {
         <div className="contact-col">
             <h3>Send us a message <img src={msg_icon} alt="" /></h3>
             <p>
-                We would like to hear from us, if it is a compliment, a donation  to help us do better we would be more than glad 
-                to hear from you. We also accept useful information to help get better.
+            We’d love to hear from you! Whether it’s a compliment, a donation to support our mission, 
+            or valuable information to help us improve, your feedback means the world to us. 
+            Together, we can make a greater impact for our pupils.
             </p>
             <ul>
-                <li><img src={mail_icon} alt="" /> Contact@ebimela.dev</li>
-                <li><img src={phone_icon} alt="" /> +256 751 123 456</li>
-                <li><img src={location_icon} alt="" /> Kamuli, Jinja, <br/>Uganda</li>
+                <li><img src={mail_icon} alt="" /> robert123@gmail.com</li>
+                <li><img src={phone_icon} alt="" /> +256 751 743 480</li>
+                <li><img src={location_icon} alt="" /> Kamuli, Namasagali <br/>Uganda</li>
             </ul>
         </div>
         <div className="contact-col">

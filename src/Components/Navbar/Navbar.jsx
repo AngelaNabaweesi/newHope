@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Navbar.css'
-import KamuliLogo from '../../assets/KamuliLogo.png'
+import KamuliLogo from '../../assets/newHopeBadget.png'
 import menu_icon from '../../assets/menu-icon.png'
 import { Link } from 'react-scroll'
 

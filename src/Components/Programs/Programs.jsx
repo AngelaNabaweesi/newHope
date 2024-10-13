@@ -2,10 +2,10 @@ import React from 'react'
 import './Programs.css'
 import program_1 from '../../assets/program_1.jpg'
 import program_2 from '../../assets/program_2.jpg'
-import program_3 from '../../assets/program_3.jpg'
+import farm from '../../assets/recent6.jpeg'
 import work from '../../assets/work.png'
 import church from '../../assets/church.png'
-import graduate from '../../assets/graduation.png'
+import farmIcon from '../../assets/farm-icon.png'
 
 const Programs = () => {
   return (
@@ -14,7 +14,7 @@ const Programs = () => {
             <img src={program_1} alt="" />
             <div className="caption">
               <img src={work} alt="" />
-              <p>Children at work</p>
+              <p>Pupils making brooms</p>
             </div>
         </div>
         <div className="program"> 
@@ -25,10 +25,10 @@ const Programs = () => {
             </div>
         </div>
         <div className="program">
-            <img src={program_3} alt="" />
+            <img src={farm} alt="" />
             <div className="caption">
-              <img src={graduate} alt="" />
-              <p>Graduation Day</p>
+              <img src={farmIcon} alt="" />
+              <p>Children Garden</p>
             </div>
         </div>
 
